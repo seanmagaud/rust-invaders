@@ -1,6 +1,6 @@
 ﻿# Rust Invaders
 
-This project implements a Invaders game like using Rust language. 
+This project implements an invaders game-like using Rust language. 
 
 It was a learning project to deep dive into Rust. 
 You can play the game using arrow or AE/QD to move, and space/enter to shot.
