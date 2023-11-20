@@ -21,8 +21,8 @@ Before you start, make sure you have the following dependency installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/seanmagaud/rustinvaders
-cd rustinvaders
+git clone https://github.com/seanmagaud/rust-invaders
+cd rust-invaders
 ```
 
 2. Build the project:
